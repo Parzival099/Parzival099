@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alfonso Palacio.
+- 👀 I’m interests in data science, artificial intelligence and business intelligence.
+- 🌱 I’m currently learning topics like data visualization, data management and artificial intelligence topics, all at an intermediate level, I know the basics, but I always try to expand my knowledge and I hope to reach a high level in artificial intelligence.
+- 💞️ I’m looking to collaborate on several projects that have a focus on data science, business intelligence, artificial intelligence or programming challenges (Hackathon).
+- 📫 You can find me on twitter as Alfonsi_P.
